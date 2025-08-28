@@ -4,18 +4,7 @@
 
 This repository contains a comprehensive implementation suite covering fundamental to advanced Natural Language Processing techniques. The four assignments demonstrate a strategic progression from classical machine learning approaches to state-of-the-art neural architectures, showcasing the evolution of NLP methodologies and their practical applications.
 
-## 🎯 Strategic Learning Progression
-
-### Foundation → Neural Networks → Transformers → Real-World Applications
-
-```
-A1: Classical ML     →  A2: Neural Networks  →  A3: Transformers    →  A4: LLM Analysis
-├─ Feature Engineering  ├─ Deep Learning       ├─ Self-Attention     ├─ Fact-Checking
-├─ Perceptron/Logistic  ├─ Word Embeddings     ├─ Language Modeling  ├─ Error Analysis
-└─ Sentiment Analysis   └─ Optimization        └─ Sequence Modeling  └─ Model Evaluation
-```
-
-## 📚 Assignment Breakdown
+## Assignment Breakdown
 
 ### Assignment 1: Classical Sentiment Classification
 **Foundation: Feature Engineering & Traditional ML**
@@ -85,3 +74,4 @@ Solutions/
 ```
 
 *Complete NLP pipeline from theoretical foundations to practical applications.*
+
